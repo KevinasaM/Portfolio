@@ -2,8 +2,6 @@
 ========================================
 
 	Author Name   : Themeplaza
-	This is HTML5 template
-	Template Name : Roton Personal Portfolio Template
 	Version: 1.0
 	
 ****************************************
@@ -11,21 +9,6 @@
 
 
 /* ----------------------------------------------------------------
-
- ==> Table Of Content
-
-	01. Default
-	02. Header
-	03. Banner
-	04. About
-	05. Service
-	06. Portfolio 
-	07. Resume
-	08. Testimonial
-	09. Blog
-	10. Contact
-	11. Footer
- 
 
 ---------------------------------------------------------------- */
 /* ==========================================================================
@@ -71,6 +54,7 @@ a a:focus{
 	outline: none;
 }
 img{
+	border-radius: 50px;
     max-width: 100%;
 	height: auto;
 }
